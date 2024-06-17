@@ -10,5 +10,5 @@ accountEmail = "dk@gmail.com";
 accountPassword = "293857";
 accountCity = "patna";
 
-//console.log(accountEmail); it takes only 2 parameters
+//console.log(accountEmail); log takes only 2 parameters
 console.table([accountEmail,accountPassword,accountCity,accountState]);
